@@ -27,6 +27,7 @@ export default function Home({ allPostsData }) {
           </li>
           ))}
         </ul>
+        <a href="https://buildanddeploy.co.uk">Back to main website</a>
       </section>
     </Layout>
   )

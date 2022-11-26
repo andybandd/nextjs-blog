@@ -5,7 +5,7 @@ date: '2022-10-21'
 
 Everyone has to start somewhere I guess and my first website seems like it should be that somewhere. The first thing I did was to purchase this domain and email hosting and I figured that, before reaching the dizzying height of programming blockchains, I should probably learn some **HTML**, **CSS** and **Javascipt**, build a webite and use it to showcase my God-given coding skills
 
-I browsed the net for some tutorials and eventually found Ania Kubow's 12 hour coding bootcamp video on YouTube which I believe is now approaching a million views. [https://www.youtube.com/watch?v=Xm4BObh4MhI](https://www.youtube.com/watch?v=Xm4BObh4MhI).  I am not surprised I learned so much from that as well being to steal the template for the bio site that she built in the process. 
+I browsed the net for some tutorials and eventually found Ania Kubow's 12 hour coding bootcamp video on YouTube which I believe is now approaching a million views. [https://www.youtube.com/watch?v=Xm4BObh4MhI](https://www.youtube.com/watch?v=Xm4BObh4MhI).  I am not surprised. I learned so much from that as well being to steal the template for the bio site that she built in the process. 
 
 I promise Ania that I will adapt it to my own style very soon and Thank you so much. You are a great teacher.
 
